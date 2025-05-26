@@ -1,0 +1,13 @@
+# Ignore virtual environments and large binary files
+venv/
+__pycache__/
+*.pyc
+*.pyd
+*.dll
+*.lib
+*.so
+*.exe
+*.pt
+*.h5
+*.ckpt
+.DS_Store
